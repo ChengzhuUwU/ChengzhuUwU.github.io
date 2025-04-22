@@ -1,11 +1,11 @@
 ---
 title: "Untitled"
-collection: SIGGRAPH 2025
-category: physics simulation
+collection: publications
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-5-31
-venue: 'Preceding track'
+venue: 'SIGGRAPH 2025'
 slidesurl: 
 paperurl: 
 bibtexurl: 
