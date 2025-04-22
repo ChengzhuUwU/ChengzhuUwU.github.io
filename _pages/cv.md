@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science and Technology, GitHub University, 2023
+* B.S. in Digital Media Technology, Xiamen University, 2019
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2025: Algorithm Intern (expected)
+  * miHoYo
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2024: Algorithm Intern
+  * Style3D Research
+  * Duties included: Research for heterogenenous computing
+  
+* Summer 2023: Algorithm Intern
+  * Style3D Research
+  * Duties included: Developing GPU-based cloth simulation mudule for MacOS.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2022: Algorithm Intern
+  * Xinyu Technology, Beijing
+  * Duties included: Developing GPU-based cloth simulator on Unity.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Integration Methods**: Newton Method, XPBD, VBD, SOSD, Explicit integration
+* **Numerical Computation**: PCG, Multigrid, Demain-decomposition, Preconditioning, Gradient Descent
+* **Collision Detection/Response**: Spatial Hashing/LBVH/Descrete Proximity/Impact Zone/IPC
+* **Energy**: StVK/Stable Neohookean/ARAP, Quadratic bending, Dehidral-Angle bending, Mass-spring, IPC barrier energy (with their semi-positive-define hessian)
+* **High-performance Computing**: C++ multi-thread, GPU architecture, low-level optimization (e.g. shared-memory/warp intrinsic/reduce/scan/sorting)
+* **Coding**: C++/Cmake, CUDA/Metal/Unity Compute Shader, Matlab, Python, C#, go, git
+* **Rendering**: OpenGL, Blender script
+
 
 Publications
 ======
@@ -47,18 +49,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
