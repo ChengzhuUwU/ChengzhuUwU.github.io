@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
+title: "Untitled"
+collection: SIGGRAPH 2025
+category: physics simulation
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2025-5-31
+venue: 'Preceding track'
+slidesurl: 
+paperurl: 
+bibtexurl: 
+citation: 'Chengzhu He, Zhendong Wang, Zhaorui Meng, Junfeng Yao, Shihui Guo, Huamin Wang. (2025). &quot;Paper Title Number 1.&quot; <i>Preceding 1</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The key challenge of heterogeneous computing lies in task scheduling, which requires consideration of task dependencies and communication delays. Our work proposes a novel automatic task scheduling framework, in which simulation tasks such as collision detection and constraint iteration are modeled as directed-acyclic-graphs (DAGs). We also introduce an efficient scheduling method based on heterogeneous earliest completion time (HEFT) algorithm to minimize communication delays. In order to maximize the parallelism of non-linear Gauss Seidel iteration, we propose an innovative asynchronous iteration strategy that performs asynchronous data synchronization between devices to mask communication delays. In addition, we have designed task merging and prioritization strategies for asynchronous iterative tasks to achieve the best balance between convergence and parallelism. We have validated the effectiveness of our framework in various simulation methods, including XPBD, Vertex Block Descent, and Second Order Stencil Descent. Without reducing any computational tasks, we achieved a 350% improvement compared to pure CPU-implementation  and a 50% improvement compared to GPU-implementation on the Apple M3 chip (12 core CPU & 30 core GPU). The frame rate exceeds the sum of the frame rates in homogeneous environments, and this achievement may provide new ideas for large-scale and real-time simulations.
