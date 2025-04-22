@@ -13,7 +13,7 @@ title                    : "Chengzhu He (何成竹) / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chengzhu He"
 description              : &description "a second year master's student from Xiamen University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://chengzhuuwu.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChengzhuUwU/ChengzhuUwU.github.io"
 
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "UwU"
   location         : "Xiamen, Fujian, China"
-  employer         : "Red Brick University"
+  employer         : "Xiamen University"
   uri              : # URL
   email            : 
 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
