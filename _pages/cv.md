@@ -34,12 +34,12 @@ Work experience
   
 Skills
 ======
-* **Integration Methods**: Newton Method, XPBD, VBD, SOSD, Explicit integration, Gradient Descent...
+* **Integration Methods**: Newton Method, XPBD, VBD, Gradient Descent, Explicit integration... (hard to learn rigid-body simulation)
 * **Numerical Computation**: PCG, Multigrid, Demain-decomposition, Preconditioning, 
-* **Collision Detection/Response**: Spatial Hashing/LBVH/Descrete Proximity/Impact Zone/IPC
+* **Collision Detection/Response**: Spatial Hashing/LBVH/Descrete Proximity/Impact Zone/IPC/Vivace Parallel-Graph-Coloring
 * **Energy**: StVK/Stable Neohookean/ARAP, Quadratic bending, Dehidral-Angle bending, Mass-spring, IPC barrier energy (with their semi-positive-define hessian)
 * **High-performance Computing**: C++ multi-thread, GPU programming, GPU architecture, Low-level optimization (e.g. shared-memory/warp intrinsic/reduce/scan/sorting)
-* **Coding**: C++/Cmake, CUDA/Metal/HLSL, Matlab, Python, C#, go, git
+* **Coding**: C++/Cmake, CUDA/Metal/HLSL/taichi, Matlab, Python, C#, go, git
 * **Rendering**: OpenGL, Blender script
 
 
