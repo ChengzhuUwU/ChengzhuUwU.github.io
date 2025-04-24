@@ -17,29 +17,29 @@ Education
 
 Work experience
 ======
-* Summer 2025: Algorithm Intern (expected)
+* Summer 2025: Graphics Algorithm Intern (expected)
   * miHoYo
 
-* Winter 2024: Algorithm Intern
+* Winter 2024: Graphics Algorithm Intern
   * Style3D Research
   * Duties included: Research for heterogenenous computing
   
-* Summer 2023: Algorithm Intern
+* Summer 2023: Graphics Algorithm Intern
   * Style3D Research
   * Duties included: Developing GPU-based cloth simulation mudule for MacOS.
 
-* Winter 2022: Algorithm Intern
+* Winter 2022: Graphics Algorithm Intern
   * Xinyu Technology, Beijing
   * Duties included: Developing GPU-based cloth simulator on Unity.
   
 Skills
 ======
-* **Integration Methods**: Newton Method, XPBD, VBD, SOSD, Explicit integration
-* **Numerical Computation**: PCG, Multigrid, Demain-decomposition, Preconditioning, Gradient Descent
+* **Integration Methods**: Newton Method, XPBD, VBD, SOSD, Explicit integration, Gradient Descent...
+* **Numerical Computation**: PCG, Multigrid, Demain-decomposition, Preconditioning, 
 * **Collision Detection/Response**: Spatial Hashing/LBVH/Descrete Proximity/Impact Zone/IPC
 * **Energy**: StVK/Stable Neohookean/ARAP, Quadratic bending, Dehidral-Angle bending, Mass-spring, IPC barrier energy (with their semi-positive-define hessian)
-* **High-performance Computing**: C++ multi-thread, GPU architecture, low-level optimization (e.g. shared-memory/warp intrinsic/reduce/scan/sorting)
-* **Coding**: C++/Cmake, CUDA/Metal/Unity Compute Shader, Matlab, Python, C#, go, git
+* **High-performance Computing**: C++ multi-thread, GPU programming, GPU architecture, Low-level optimization (e.g. shared-memory/warp intrinsic/reduce/scan/sorting)
+* **Coding**: C++/Cmake, CUDA/Metal/HLSL, Matlab, Python, C#, go, git
 * **Rendering**: OpenGL, Blender script
 
 
