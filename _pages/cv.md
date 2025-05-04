@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science and Technology, GitHub University, 2023
+* M.S. in Computer Science and Technology, Xiamen University, 2023
 * B.S. in Digital Media Technology, Xiamen University, 2019
 
 
