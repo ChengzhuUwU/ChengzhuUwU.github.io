@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "CN"
 site_theme               : "default"
-title                    : "Chengzhu He (何成竹) / Personal Homepage"
+title                    : "Chengzhu He - Homepage"
 title_separator          : "-"
 name                     : &name "Chengzhu He"
 description              : &description "a second year master's student from Xiamen University"
@@ -22,8 +22,8 @@ repository               : "ChengzhuUwU/ChengzhuUwU.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Chengzhu He"
+  avatar           : "me.png"
+  name             : "Chengzhu He (何成竹)"
   pronouns         : # example: "she/her"  
   bio              : "UwU"
   location         : "Xiamen, Fujian, China"

@@ -5,10 +5,10 @@ category: conferences
 permalink: /publication/siggraph-2025-ats
 excerpt: 'This paper is about accelrating cloth and deformable body using heteronegeous computing'
 date: 2025-5-31
-venue: 'SIGGRAPH 2025'
-slidesurl: 
-paperurl: 
-bibtexurl: 
+venue: 'SIGGRAPH 2025 Conference'
+slidesurl: ''
+paperurl: 'https://chengzhuuwu.github.io/files/ats_camera_ready.pdf'
+bibtexurl: 'https://github.com/ChengzhuUwU/libAtsSim'
 citation: 'Chengzhu He, Zhendong Wang, Zhaorui Meng, Junfeng Yao, Shihui Guo, Huamin Wang. (2025). <i>Preceding</i>.'
 ---
 
