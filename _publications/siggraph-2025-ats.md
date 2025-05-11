@@ -20,4 +20,4 @@ To maximize the parallelism of nonlinear Gauss-Seidel simulation tasks, we prese
 
 We validate the effectiveness of our framework across various simulations, including XPBD, vertex block descent, and second-order stencil descent, using Apple M-series processors with both CPU and GPU cores. By maximizing computational efficiency and reducing processing times, our method achieves superior simulation frame rates compared to approaches that rely on individual devices in isolation. 
 
-The source code with hybrid Metal/C++ implementation is available at *https://github.com/ChengzhuUwU/libAtsSim*.
+The source code with hybrid Metal/C++ implementation is available at [*https://github.com/ChengzhuUwU/libAtsSim*](https://github.com/ChengzhuUwU/libAtsSim).
