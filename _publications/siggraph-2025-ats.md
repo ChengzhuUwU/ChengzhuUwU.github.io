@@ -7,7 +7,7 @@ excerpt: 'This paper is about accelrating cloth and deformable body using hetero
 date: 2025-5-31
 venue: 'SIGGRAPH 2025 Conference'
 slidesurl: ''
-paperurl: 'https://chengzhuuwu.github.io/files/ats_camera_ready.pdf'
+paperurl: ''
 bibtexurl: 'https://github.com/ChengzhuUwU/libAtsSim'
 citation: 'Chengzhu He, Zhendong Wang, Zhaorui Meng, Junfeng Yao, Shihui Guo, Huamin Wang. (2025). <i>Preceding</i>.'
 ---
