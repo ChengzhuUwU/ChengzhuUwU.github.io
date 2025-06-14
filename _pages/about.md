@@ -35,10 +35,10 @@ Email 2: 2401722744@qq.com
 
 # Internships
 
-- *2025.6 - 2025.9*, miHoYo, **???**, Shanghai
-- *2024.10 - 2025.1*, Style3D Reseach **Acadamic Reseach**, Hangzhou
-- *2023.5 - 2023.9*, Style3D Reseach, **Simulation Engine**, Hangzhou
-- *2022.10 - 2023.2*, Xinyu Technology, **Simulation Engine**, Beijing
+- *2025.06 - 2025.09*, miHoYo, **Graphics Pre-Research**, Shanghai
+- *2024.10 - 2025.01*, Style3D Reseach **Acadamic Reseach**, Hangzhou
+- *2023.05 - 2023.09*, Style3D Reseach, **Simulation Engine**, Hangzhou
+- *2022.10 - 2023.02*, Xinyu Technology, **Simulation Engine**, Beijing
 
 <!-- - *2022.1 - 2022.4*, [Tencent CSIG](https://www.tencent.com/en-us/) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Digital Human**, Beijing -->
 

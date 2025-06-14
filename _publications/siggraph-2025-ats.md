@@ -5,13 +5,15 @@ category: conferences
 permalink: /publication/siggraph-2025-ats
 excerpt: 'This paper is about accelrating cloth and deformable body using heteronegeous computing'
 date: 2025-5-31
-venue: 'SIGGRAPH 2025 Conference'
+venue: 'SIGGRAPH 2025 Conference Papers'
 slidesurl: ''
 # paperurl: ''
 paperurl: ''
 bibtexurl: 'https://github.com/ChengzhuUwU/libAtsSim'
-citation: 'Chengzhu He, Zhendong Wang, Zhaorui Meng, Junfeng Yao, Shihui Guo, Huamin Wang. (2025). <i>Preceding</i>.'
+citation: 'Chengzhu He, Zhendong Wang, Zhaorui Meng, Junfeng Yao, Shihui Guo, Huamin Wang. <i>SIGGRAPH 2025 Conference Track</i>.'
 ---
+
+![alt text](img_ats_letters.png)
 
 The concept of the Internet of Things (IoT) has driven the development of system-on-a-chip (SoC) technology for embedded and mobile systems, which may define the future of next-generation computation. In SoC devices, efficient cloth and deformable body simulations require parallelized, heterogeneous computation across multiple processing units. The key challenge in heterogeneous computation lies in task distribution, which must account for varying inter-task dependencies and communication costs. 
 
@@ -22,3 +24,6 @@ To maximize the parallelism of nonlinear Gauss-Seidel simulation tasks, we prese
 We validate the effectiveness of our framework across various simulations, including XPBD, vertex block descent, and second-order stencil descent, using Apple M-series processors with both CPU and GPU cores. By maximizing computational efficiency and reducing processing times, our method achieves superior simulation frame rates compared to approaches that rely on individual devices in isolation. 
 
 The source code with hybrid Metal/C++ implementation is available at [*https://github.com/ChengzhuUwU/libAtsSim*](https://github.com/ChengzhuUwU/libAtsSim).
+
+
+![alt text](img_ats_overview.png)
