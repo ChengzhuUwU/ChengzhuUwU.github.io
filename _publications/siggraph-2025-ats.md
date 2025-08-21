@@ -6,9 +6,8 @@ permalink: /publication/siggraph-2025-ats
 excerpt: 'This paper is about accelrating cloth and deformable body using heteronegeous computing'
 date: 2025-5-31
 venue: 'SIGGRAPH 2025 Conference Papers'
-slidesurl: ''
-# paperurl: ''
-paperurl: ''
+slidesurl: 'https://chengzhuuwu.github.io/files/ats_sig_slide.pptx'
+paperurl: 'https://chengzhuuwu.github.io/files/ats_camera_ready.pdf'
 bibtexurl: 'https://github.com/ChengzhuUwU/libAtsSim'
 citation: 'Chengzhu He, Zhendong Wang, Zhaorui Meng, Junfeng Yao, Shihui Guo, Huamin Wang. <i>SIGGRAPH 2025 Conference Track</i>.'
 ---
@@ -25,5 +24,15 @@ We validate the effectiveness of our framework across various simulations, inclu
 
 The source code with hybrid Metal/C++ implementation is available at [*https://github.com/ChengzhuUwU/libAtsSim*](https://github.com/ChengzhuUwU/libAtsSim).
 
-
 ![alt text](img_ats_overview.png)
+
+Fast-Forward Video:
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://chengzhuuwu.github.io/files/ats_fast_forward" type="video/mp4">
+</videos>
+
+PrePresentation Video:
+
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://chengzhuuwu.github.io/files/ats_prepresentation" type="video/mp4">
+</videos>
