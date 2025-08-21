@@ -28,11 +28,11 @@ The source code with hybrid Metal/C++ implementation is available at [*https://g
 
 Fast-Forward Video:
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://chengzhuuwu.github.io/files/ats_fast_forward" type="video/mp4">
+      <source id="mp4" src="https://chengzhuuwu.github.io/files/ats_fast_forward.mp4" type="video/mp4">
 </videos>
 
 PrePresentation Video:
 
 <video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://chengzhuuwu.github.io/files/ats_prepresentation" type="video/mp4">
+      <source id="mp4" src="https://chengzhuuwu.github.io/files/ats_prepresentation.mp4" type="video/mp4">
 </videos>
