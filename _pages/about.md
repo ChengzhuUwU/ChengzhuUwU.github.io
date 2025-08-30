@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome!!!
 
-I'm a second year master's student at [Xiamen University]([https://eecs.pku.edu.cn/](https://www.xmu.edu.cn/)), advised by [Prof. Shihui Guo](https://informatics.xmu.edu.cn/info/1018/43139.htm) (welcome to visit our lab: [HumanPlus](https://www.humanplus.xyz/)) and [Prof. Junfeng Yao](https://film.xmu.edu.cn/info/1188/1375.htm) (also welcome to visit our lab: [CDMC](https://cdmc.xmu.edu.cn/)). 
+I'm a first year PhD student at [Xiamen University]([https://eecs.pku.edu.cn/](https://www.xmu.edu.cn/)), advised by [Prof. Shihui Guo](https://informatics.xmu.edu.cn/info/1018/43139.htm) (welcome to visit our lab: [HumanPlus](https://www.humanplus.xyz/)). 
 
 I am especially interesed in forward **physics-based simulation** for computer graphics (mainly focus on cloth and deformable-body simulation), high-performance computing, heterogeneous computing and rendering. 
 
@@ -30,7 +30,8 @@ Email 2: 2401722744@qq.com
 
 # Education
 
-- *2023.9 - Present*, Master, Xiamen University, Fujian province
+- *2025.9 - Present*, PhD (Master to PhD), Xiamen University, Fujian province
+- *2023.9 - 2025.6*, Master, Xiamen University, Fujian province
 - *2019.9 - 2023.6*, Undergraduate, Xiamen University, Fujian province
 
 # Internships
