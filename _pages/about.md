@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome!!!
 
-I'm a first year PhD student at [Xiamen University]([https://eecs.pku.edu.cn/](https://www.xmu.edu.cn/)), advised by [Prof. Shihui Guo](https://informatics.xmu.edu.cn/info/1018/43139.htm) (welcome to visit our lab: [HumanPlus](https://www.humanplus.xyz/)). 
+I'm a third year PhD student at [Xiamen University]([https://eecs.pku.edu.cn/](https://www.xmu.edu.cn/)), advised by [Prof. Shihui Guo](https://informatics.xmu.edu.cn/info/1018/43139.htm) (welcome to visit our lab: [HumanPlus](https://www.humanplus.xyz/)). 
 
 I am especially interesed in forward **physics-based simulation** for computer graphics (mainly focus on cloth and deformable-body simulation), high-performance computing, heterogeneous computing and rendering. 
 
