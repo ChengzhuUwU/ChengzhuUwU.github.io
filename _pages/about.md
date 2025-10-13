@@ -27,6 +27,7 @@ Email 1: 38120231150160@stu.xmu.edu.cn
 
 Email 2: 2401722744@qq.com
 
+If you have a willingness to cooperate, you can also you can also contact my supervisors (Prof. Shihui Guo and Dr. Anjun Chen) in [HumanPlus](https://www.humanplus.xyz/team).
 
 # Education
 
