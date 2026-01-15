@@ -23,7 +23,7 @@ QQ: [240172744](https://qm.qq.com/q/TtBqiKBya)
 
 Wechat: huohuohuazi
 
-Email 1: 38120231150160@stu.xmu.edu.cn 
+Email 1: chengzhuhe@stu.xmu.edu.cn 
 
 Email 2: 2401722744@qq.com
 
