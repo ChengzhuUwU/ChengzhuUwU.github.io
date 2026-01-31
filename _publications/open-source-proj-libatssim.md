@@ -1,5 +1,5 @@
 ---
-title: "LuisaComputeSimulator"
+title: "LibAtsSim"
 collection: publications
 category: projects
 permalink: /publication/open-source-proj-libatssim
