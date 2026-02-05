@@ -7,7 +7,7 @@ excerpt: 'Code for SIGGRAPH 2025 conference paper: Automated Task Scheduling for
 date: 2025-5-31
 venue: 'Github'
 bibtexurl: 'https://github.com/ChengzhuUwU/libAtsSim'
-citation: 'Chengzhu He, Zhendong Wang, Zhaorui Meng, Junfeng Yao, Shihui Guo, Huamin Wang. <i>SIGGRAPH 2025 Conference Track</i>.'
+citation: 'https://github.com/ChengzhuUwU/libAtsSim'
 ---
 
 ![alt text](example3_iter_12_schedule.png)

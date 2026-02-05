@@ -7,6 +7,7 @@ excerpt: 'High-Performance Cross-Platform GPU-Based Physics Simulator, Based on 
 date: 2025-10-22
 venue: 'Github'
 bibtexurl: 'https://github.com/ChengzhuUwU/LuisaComputeSimulator'
+citation: 'https://github.com/ChengzhuUwU/LuisaComputeSimulator'
 
 ---
 
