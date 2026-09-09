@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="theme-color" content="#f8f7f3">
+  <meta property="og:title" content="{{ site.name }}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}/">
+  <link rel="canonical" href="{{ site.url }}/">
+  <link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}" sizes="32x32">
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+  <title>{{ site.name }}</title>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header wrap">
+    <a class="wordmark" href="#about" aria-label="{{ site.name }}, home">{{ site.name }}</a>
+    <nav aria-label="Main navigation">
+      <a href="#research">Research</a>
+      <a href="#experience">Experience</a>
+      <a href="#education">Education</a>
+      <a href="{{ '/cv/' | relative_url }}" aria-label="Curriculum Vitae">CV</a>
+    </nav>
+  </header>
+  <main id="main" class="wrap">
+    {{ content }}
+  </main>
+  <footer class="wrap site-footer">
+    <p>&copy; <span id="year">2026</span> {{ site.name }}</p>
+    <a href="#about">Back to top <span aria-hidden="true">&#8593;</span></a>
+  </footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
