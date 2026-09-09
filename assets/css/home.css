@@ -102,6 +102,33 @@ h3 a { color: inherit; text-decoration: none; }
   .dates span { display: inline; margin-left: 9px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* ---- Project page ---- */
+.project { max-width: 880px; padding-block: 55px 45px; }
+.project .eyebrow { margin-bottom: 10px; }
+.project h1 { font-size: clamp(30px, 4.2vw, 42px); letter-spacing: -1px; margin: 0 0 16px; }
+.project .authors { font-size: 16px; color: var(--muted); line-height: 1.8; margin-bottom: 18px; }
+.project .authors strong { color: var(--ink); font-weight: 650; }
+.project-badges { display: flex; align-items: center; flex-wrap: wrap; gap: 12px 24px; margin-bottom: 6px; }
+.project-links { display: flex; flex-wrap: wrap; gap: 18px; }
+.project-links a { font-size: 15px; font-weight: 650; text-decoration: none; border-bottom: 1px solid #a8bcb0; padding-bottom: 3px; }
+.project-links span { font-size: 11px; margin-left: 3px; color: var(--muted); }
+.project figure { margin: 28px 0 6px; }
+.project figure img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 5px; background: white; padding: 8px; box-sizing: border-box; }
+.project figure figcaption { color: var(--muted); font-size: 13px; text-align: center; margin-top: 10px; line-height: 1.6; }
+.project h2 { font-size: 24px; letter-spacing: -.4px; margin: 44px 0 12px; }
+.project p { font-size: 16.5px; line-height: 1.8; margin-bottom: 14px; }
+.project p a { text-decoration: none; }
+.project p a:hover { text-decoration: underline; }
+.embed { position: relative; padding-top: 56.25%; margin: 16px 0 8px; border: 1px solid var(--line); border-radius: 5px; overflow: hidden; background: white; }
+.embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+pre.bibtex { background: #efeee8; border: 1px solid var(--line); border-radius: 5px; padding: 14px 18px; font-size: 13px; line-height: 1.6; overflow-x: auto; }
+.project .back { margin-top: 42px; font-size: 15px; }
+.project .back a { text-decoration: none; font-weight: 600; }
+@media (max-width: 560px) {
+  .project { padding-block: 38px 35px; }
+  .project-badges { gap: 10px 16px; }
+}
 @media print {
   body { background: white; font-size: 11pt; }
   .wrap { max-width: none; padding-inline: 0; }

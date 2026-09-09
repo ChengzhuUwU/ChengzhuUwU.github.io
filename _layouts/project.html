@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip }}{% else %}{{ page.title }} — {{ site.name }}{% endif %}">
+  <meta name="theme-color" content="#f8f7f3">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:type" content="article">
+  <link rel="icon" href="{{ '/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}" sizes="32x32">
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+  <title>{{ page.title }} - {{ site.name }}</title>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header wrap">
+    <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="{{ site.name }}, home">{{ site.name }}</a>
+    <nav aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}#research">Research</a>
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <a href="{{ '/cv/' | relative_url }}" aria-label="Curriculum Vitae">CV</a>
+    </nav>
+  </header>
+  <main id="main" class="wrap">
+    <article class="project">
+      {{ content }}
+    </article>
+  </main>
+  <footer class="wrap site-footer">
+    <p>&copy; <span id="year">2026</span> {{ site.name }}</p>
+    <a href="{{ '/' | relative_url }}#about">Back to top <span aria-hidden="true">&#8593;</span></a>
+  </footer>
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
