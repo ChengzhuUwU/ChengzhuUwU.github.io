@@ -2,7 +2,7 @@
 title: "Automated Task Scheduling for Cloth and Deformable Body Simulations in Heterogeneous Computing Environments"
 collection: publications
 category: conferences
-permalink: /publication/siggraph-2025-ats
+permalink: /publication/siggraph-2025-ats/
 excerpt: 'Accelerating cloth and deformable body simulation with automated task scheduling on heterogeneous CPU/GPU computing environments.'
 date: 2025-5-31
 venue: 'SIGGRAPH 2025 Conference Papers'

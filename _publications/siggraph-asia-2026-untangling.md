@@ -2,7 +2,7 @@
 title: "Type-Free Global Intersection Analysis with Linear Displacement Fields"
 collection: publications
 category: conferences
-permalink: /publication/siggraph-asia-2026-untangling
+permalink: /publication/siggraph-asia-2026-untangling/
 excerpt: 'A type-free untangling framework that constructs separation responses directly from contour-anchored ray evidence rather than predefined contour categories, robustly resolving self-intersections in cloth and thin-shell simulation.'
 date: 2026-12-01
 venue: 'SIGGRAPH Asia 2026 Conference Papers'

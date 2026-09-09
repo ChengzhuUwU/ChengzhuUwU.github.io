@@ -2,7 +2,7 @@
 title: "LuisaComputeSimulator"
 collection: publications
 category: projects
-permalink: /publication/open-source-proj-lcs
+permalink: /publication/open-source-proj-lcs/
 excerpt: 'High-Performance Cross-Platform GPU-Based Physics Simulator, Based on LuisaCompute'
 date: 2025-10-22
 venue: 'Github'

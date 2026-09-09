@@ -2,7 +2,7 @@
 title: "LibAtsSim"
 collection: publications
 category: projects
-permalink: /publication/open-source-proj-libatssim
+permalink: /publication/open-source-proj-libatssim/
 excerpt: 'Code for SIGGRAPH 2025 conference paper: Automated Task Scheduling for Cloth and Deformable Simulation on Heterogeneous Environments'
 date: 2025-5-31
 venue: 'Github'
