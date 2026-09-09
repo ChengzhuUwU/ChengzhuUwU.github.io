@@ -33,8 +33,18 @@ redirect_from:
 
 <section id="research" class="section" aria-labelledby="research-title">
   <div class="section-heading"><h2 id="research-title">Research</h2><span class="section-note">Publications &amp; open-source work</span></div>
-  <p class="research-note">Making cloth and deformable-body simulation faster through task scheduling, heterogeneous computing, and GPU systems.</p>
+  <p class="research-note">Robust and fast cloth &amp; deformable-body simulation — intersection repair, task scheduling, and heterogeneous GPU systems.</p>
   <div class="papers">
+    <article class="paper">
+      <a class="paper-teaser" href="/publications/untangling_teaser.jpg" target="_blank" rel="noopener" aria-label="View untangling teaser at full size (opens in a new tab)"><img src="/publications/untangling_teaser.jpg" alt="Teaser: initial entangled states, initial ray hits, and resolved states for cloth benchmarks" width="3680" height="1926" loading="lazy" decoding="async"><span aria-hidden="true">View image &#8599;</span></a>
+      <div class="paper-body">
+        <div class="paper-label"><span class="venue">SIGGRAPH Asia 2026</span><span class="paper-topic">Untangling &amp; intersection repair</span></div>
+        <h3><a href="/files/untangling_siggraph_asia_2026.pdf">Type-Free Global Intersection Analysis with Linear Displacement Fields</a></h3>
+        <p class="authors"><strong>Chengzhu He</strong>, Xudong Feng, Anjun Chen, Dan Song, Shihui Guo, Kui Wu</p>
+        <p class="abstract">A type-free untangling framework that resolves self-intersections in cloth and thin-shell simulation without collision history or contour classification. It tests candidate linear displacement directions with conservative VF/EE/FV ray casting, culls spurious hits by adjacency-based clustering, and refines separation directions directly from contour-anchored evidence, consistently outperforming GIA and ICM baselines in challenging scenarios.</p>
+        <div class="paper-links"><a href="/files/untangling_siggraph_asia_2026.pdf">Paper <span aria-hidden="true">&#8599;</span></a><a href="/files/untangling_supplemental.pdf">Supplemental <span aria-hidden="true">&#8599;</span></a><a href="https://youtu.be/cs_592tRAZQ">Video <span aria-hidden="true">&#8599;</span></a><a href="https://github.com/ChengzhuUwU/Untangling26">Code <span aria-hidden="true">&#8599;</span></a></div>
+      </div>
+    </article>
     <article class="paper">
       <a class="paper-teaser" href="/publications/img_ats_overview.png" target="_blank" rel="noopener" aria-label="View ATS overview figure at full size (opens in a new tab)"><img src="/publications/img_ats_overview.png" alt="Overview of the automated task scheduling framework" width="1266" height="638" loading="lazy" decoding="async"><span aria-hidden="true">View image &#8599;</span></a>
       <div class="paper-body">
