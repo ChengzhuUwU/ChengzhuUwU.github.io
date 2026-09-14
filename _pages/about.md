@@ -33,7 +33,7 @@ redirect_from:
 
 <section id="research" class="section" aria-labelledby="research-title">
   <div class="section-heading"><h2 id="research-title">Research</h2><span class="section-note">Publications &amp; open-source work</span></div>
-  <p class="research-note">Robust and fast cloth &amp; deformable-body simulation — intersection repair, task scheduling, and heterogeneous GPU systems.</p>
+  <p class="research-note">Mainly focus on physics-based simulation.</p>
   <div class="papers">
     <article class="paper">
       <a class="paper-teaser" href="/publications/untangling_teaser.jpg" target="_blank" rel="noopener" aria-label="View untangling teaser at full size (opens in a new tab)"><img src="/publications/untangling_teaser.jpg" alt="Teaser: initial entangled states, initial ray hits, and resolved states for cloth benchmarks" width="3680" height="1926" loading="lazy" decoding="async"><span aria-hidden="true">View image &#8599;</span></a>
