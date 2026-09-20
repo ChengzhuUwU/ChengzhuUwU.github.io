@@ -45,11 +45,15 @@ layout: project
 <p>The official implementation is available on GitHub: <a href="https://github.com/ChengzhuUwU/Untangling26">ChengzhuUwU/Untangling26</a>.</p>
 
 <h2 id="bibtex">BibTeX</h2>
-<pre class="bibtex"><code>@inproceedings{he2026typefree,
-  title     = {Type-Free Global Intersection Analysis with Linear Displacement Fields},
-  author    = {He, Chengzhu and Feng, Xudong and Chen, Anjun and Song, Dan and Guo, Shihui and Wu, Kui},
-  booktitle = {SIGGRAPH Asia 2026 Conference Papers},
-  year      = {2026}
+<pre class="bibtex"><code>@inproceedings{he2025untanglingrc,
+  title={Type-Free Global Intersection Analysis with Linear Displacement Fields},
+  author={He, Chengzhu and Feng, Xudong and Chen, Anjun and Song, Dan and Guo, Shihui and Wu, Kui},
+  journal={ACM Transactions on Graphics},
+  volume={45},
+  number={6},
+  pages={1--17},
+  year={2026},
+  publisher={ACM New York, NY}
 }</code></pre>
 
 <p class="back"><a href="/#research">&larr; Back to Research</a></p>
