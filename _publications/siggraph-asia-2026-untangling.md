@@ -45,7 +45,7 @@ layout: project
 <p>The official implementation is available on GitHub: <a href="https://github.com/ChengzhuUwU/Untangling26">ChengzhuUwU/Untangling26</a>.</p>
 
 <h2 id="bibtex">BibTeX</h2>
-<pre class="bibtex"><code>@inproceedings{he2025untanglingrc,
+<pre class="bibtex"><code>@article{he2025untanglingrc,
   title={Type-Free Global Intersection Analysis with Linear Displacement Fields},
   author={He, Chengzhu and Feng, Xudong and Chen, Anjun and Song, Dan and Guo, Shihui and Wu, Kui},
   journal={ACM Transactions on Graphics},
@@ -57,3 +57,4 @@ layout: project
 }</code></pre>
 
 <p class="back"><a href="/#research">&larr; Back to Research</a></p>
+
